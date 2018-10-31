@@ -1,8 +1,3 @@
-%Participantes:                    RAs:
-
-%Matheus Valbert                17055641
-%LEONARDO Marchioni Mariotto    17122383
-
 %----------------------------------BASE_DE_DADOS----------------------------------
 
 acesso(a, b, x1, 100, (1:10)).

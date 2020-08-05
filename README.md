@@ -1,5 +1,3 @@
-# caminhos-prolog
-
 # Introdução
 ```
 Estas atividades foram desenvolvidas para o terceiro semestre na disciplina de Paradigmas de Programação A.
